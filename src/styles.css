@@ -1,0 +1,124 @@
+.app {
+        background-color: #f0f4f8; /* Color de fondo claro para todo el cuerpo */
+        font-family: 'Arial', sans-serif; /* Fuente del texto */
+        margin: 0; /* Elimina los márgenes por defecto */
+        padding: 0; /* Elimina los rellenos por defecto */
+        justify-content: center; /* Centra el contenido horizontalmente */
+        align-items: center; /* Centra el contenido verticalmente */
+        height: 100vh; /* Altura completa de la ventana */
+    
+    }
+  
+.uu{
+    color:black; /* Color del texto del encabezado */
+    text-align: center; /* Alinear el encabezado al centro */
+    margin-bottom: 20px; /* Margen inferior */
+}
+
+.error{
+    color: red;
+}
+
+  
+.container {
+    background-color: gainsboro; /* Color de fondo del contenedor */
+    padding: 25px; /* Relleno */
+    border-radius: 15px; /* Bordes redondeados */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Sombra */
+    max-width: 600px; /* Ancho máximo del contenedor */
+    width: 100%; /* Ancho completo */
+    color: black; /* Color del texto blanco */
+    font-weight: bold; /* Texto en negrita */
+    font-size: 15px;
+  }
+  
+
+  label {
+    color: black; /* Color del texto de las etiquetas */
+    font-weight: bold; /* Texto en negrita */
+  }
+  
+  .form-control {
+    margin-bottom: 15px; /* Margen inferior para los inputs */
+    border-radius: 5px; /* Bordes redondeados */
+  }
+  
+  .error {
+    color: #ff6b6b; /* Color del texto de error */
+    font-size: 0.875rem; /* Tamaño del texto de error */
+  }
+  
+  button {
+    margin-top: 20px; /* Margen superior para el botón */
+    background-color: #1a73e8; /* Color de fondo del botón */
+    border: none; /* Sin borde */
+    color: #fff; /* Color del texto del botón */
+    padding: 10px 20px; /* Relleno */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cursor de puntero */
+    font-size: 1rem; /* Tamaño de la fuente */
+  }
+  
+  button:hover {
+    background-color: #155ab7; /* Color de fondo del botón al pasar el ratón */
+  }
+  
+  .radio-label {
+    margin-right: 15px; /* Margen derecho para los labels de radio */
+  }
+  
+  .checkbox-label {
+    display: block; /* Display en bloque para el label del checkbox */
+    margin-top: 15px; /* Margen superior */
+  }
+  
+  .radio-group, .select-group, .checkbox-group {
+    margin-bottom: 20px; /* Margen inferior para los grupos */
+  }
+  h1 {
+    text-align: center; /* Alinear el encabezado al centro */
+    margin-bottom: 5px; /* Margen inferior */
+    font-size: 200px;
+  }
+
+/* estilos home.js */
+.home-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .home-title {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .home-subtitle {
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
+  .eventos-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .evento-item {
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding: 15px;
+  }
+  
+  .evento-name {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
+  .evento-info {
+    font-size: 1.1rem;
+    color: #555;
+    margin: 5px 0;
+  }
