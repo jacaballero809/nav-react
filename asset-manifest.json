@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nav-react/static/css/main.a532d064.css",
+    "main.js": "/nav-react/static/js/main.5870ac0b.js",
+    "index.html": "/nav-react/index.html",
+    "main.a532d064.css.map": "/nav-react/static/css/main.a532d064.css.map",
+    "main.5870ac0b.js.map": "/nav-react/static/js/main.5870ac0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a532d064.css",
+    "static/js/main.5870ac0b.js"
+  ]
+}
